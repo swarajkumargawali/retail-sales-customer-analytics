@@ -1,7 +1,7 @@
 # Retail Sales & Customer Analytics
 
 ## Project objective
-Analyze the Tableau Sample Superstore retail transaction data to identify revenue and profit drivers, customer segments, product/category performance, regional patterns, and discount-related profitability issues.
+Analyze the Tableau Superstore retail transaction data to identify revenue and profit drivers, customer segments, product/category performance, regional patterns, and discount-related profitability issues.
 
 ## Business questions
 1. How do sales and profit change over time?
